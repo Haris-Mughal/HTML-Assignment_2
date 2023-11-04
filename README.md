@@ -9,7 +9,7 @@
   </head>
   <body>
     <header>
-      <h4>Home Page</h4>
+      <h1>Home Page</h1>
     </header>
     <main>
       <h3>Empty Elements</h3>
