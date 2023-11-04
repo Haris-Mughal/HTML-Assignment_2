@@ -6,10 +6,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Assignment - 2</title>
   </head>
   <body>
     <header>
+      <h4>Home Page</h4>
+    </header>
+    <main>
       <h3>Empty Elements</h3>
       <p>
         Empty Elements are elements that donot have any element content and an
@@ -19,8 +21,6 @@
         The <code>&lt;br&gt;</code> tag defines a line break and is an empty
         element without a closing tag:
       </p>
-    </header>
-    <main>
       <h4>Code:</h4>
       <!-- <center> -->
       <p>
